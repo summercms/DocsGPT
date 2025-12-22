@@ -45,7 +45,7 @@ langchain==0.0.308
 loguru==0.6.0
 lxml==4.9.2
 MarkupSafe==2.1.2
-marshmallow==3.19.0
+marshmallow==3.26.2
 marshmallow-enum==1.5.1
 mpmath==1.3.0
 multidict==6.0.4
